@@ -1,0 +1,9 @@
+How to check a varible's type?
+	-use function type() return class/data type: str, float,..
+	ex: type(20) return <class 'int'>
+	
+- In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names? 
+  Can you give 3 different examples of invalid names?
+	-Variable name does not begin with a letter or underscore, ex:  4d3
+	_Variable name contains illegal character, ex:   b%4
+	_Variable name is one of the Python keywords, ex: int
