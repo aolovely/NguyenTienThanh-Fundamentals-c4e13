@@ -1,0 +1,10 @@
+menu = ["love1", "love2", "love3"]
+print(menu)
+print(*menu)
+print(*menu, sep=",  ")
+print(menu[0])
+menu.append("love4")
+print(*menu)
+print(len(menu))
+menu.append(input(""))
+print(*menu)

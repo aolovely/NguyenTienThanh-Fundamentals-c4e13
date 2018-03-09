@@ -1,0 +1,7 @@
+What is nested list?
+- Nested list is a list within another list
+ex: list = [0, 20, [1]]
+
+Can a list store both integers and strings in it?
+- yes
+ex: list = ["love", 1, 2]
